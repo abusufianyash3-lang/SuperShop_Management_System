@@ -1,0 +1,32 @@
+# Supershop Management System
+
+A modular console-based Supershop Management System developed using C.
+
+## Features
+
+* Admin authentication
+* Customer registration and login
+* Product management
+* Add, update, delete, and search products
+* Order placement and order history
+* Customer order tracking
+* Admin order summaries and total calculations
+
+## Technical Concepts
+
+* C Programming
+* Structures
+* Singly Linked List
+* Dynamic Memory Management
+* Modular Programming
+* Header Files
+* Doxygen Documentation
+
+## Project Structure
+
+The project is organized into separate modules for:
+
+* Admin Management
+* Customer Management
+* Product Management
+* Order Management
